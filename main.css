@@ -1,0 +1,41 @@
+/* Inserta tu CSS aqui */
+body
+{
+	margin:0;
+	padding:0;
+	position:absolute;
+	
+}
+.contenedor
+{
+	width:400px;
+	height:400px;
+	background-color:red;
+
+
+
+	
+}
+
+.morado
+{
+	width:200px;
+	height:200px;
+	background-color: purple;
+	position:absolute;
+	left:100px;
+	top:100px;
+
+	
+	
+}
+
+.amarillo
+{
+	width:100px;
+	height:100px;
+	background-color: yellow;
+	position:absolute;
+	top:0;
+	left:0;
+}
