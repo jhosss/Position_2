@@ -1,0 +1,40 @@
+/* Inserta tu CSS aqui */
+body
+{
+	margin:0;
+	padding:0;
+	position:absolute;
+	
+}
+.contenedor
+{
+	width:400px;
+	height:400px;
+	background-color:blue;
+	position:absolute;
+
+
+
+	
+}
+
+.green
+{
+	width:200px;
+	height:200px;
+	background-color: green;
+	position:absolute;
+	left:100px;
+	top:100px;
+	
+}
+
+.black
+{
+	width:100px;
+	height:100px;
+	background-color: #000000;
+	position:absolute;
+	top:0;
+	left:0;
+}
